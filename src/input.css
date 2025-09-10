@@ -7,7 +7,7 @@ body{
 }
 
 .navbar-fixed{
-    @apply fixed z-[9999] bg-white bg-opacity-70 dark:bg-gelap dark:opacity-50 backdrop-blur-sm;
+    @apply fixed z-[9999] bg-white bg-opacity-70 backdrop-blur-sm dark:bg-gelap dark:bg-opacity-50;
     box-shadow: inset 0 0 1px 0 rgba(0,0,0,0.5);
 }
 

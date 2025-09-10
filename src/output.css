@@ -1189,9 +1189,8 @@ body{
 }
 
 .navbar-fixed:is(.dark *) {
-  --tw-bg-opacity: 1;
   background-color: rgb(15 23 42 / var(--tw-bg-opacity, 1));
-  opacity: 0.5;
+  --tw-bg-opacity: 0.5;
 }
 
 .navbar-fixed{
